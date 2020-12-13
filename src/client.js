@@ -1,4 +1,4 @@
-import sanityClient from '@saniity/client'
+import sanityClient from '@sanity/client'
 
 
 
